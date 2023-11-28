@@ -1,10 +1,7 @@
-# Methodology Assignment 5
-
-## Joshua Chuang
-
-## jcchuang@ucsd.edu
-
-## B08, Phi Nguyen
+Joshua Chuang\\
+jcchuang@ucsd.edu\\
+B08\\
+Phi Nguyen
 
 ## 1. What is the most interesting topic covered in your domain this quarter?
 I think the most interesting topic is how intricate the energy infrastructure is and how so many different working parts are necessary in just one electric pole that plays a role in the larger electric grid. The complexity of the system poses serious risks and it is very impressive the efforts and solutions SDG&E have developed in order to ensure public safety. As a resident of the San Diego area, I find this matter to be important and can better appreciate what SDG&E is doing.
